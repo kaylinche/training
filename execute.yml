@@ -8,7 +8,7 @@ image_resource:
     tag: latest
 
 inputs:
-- name: my-repo
+- name: myRepo
 
 run:
-  path: my-repo/execute.sh
+  path: myRepo/execute.sh
