@@ -1,6 +1,0 @@
----
-applications:
-- name: humptydumpty-demo-puser
-  memory: 1G
-  instance: 1
-  path: target/humptydumpty.war
