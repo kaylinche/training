@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Ab geht's"
+curl --help
